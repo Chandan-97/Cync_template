@@ -12,4 +12,5 @@
 ---
 ## Icon
 *  [Simple Icons](http://simplelineicons.com)
-*  [Glyphicons](http://glyphicons.com/)
+*  [FontAwesome](https://fontawesome.com/v4.7.0/)
+*  [Octions](https://octicons.github.com/)
